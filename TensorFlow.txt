@@ -1,3 +1,5 @@
+pip: is a python package manager
+
 All notebooks in this course can be run in either Google Colab or Coursera Labs.You don’t need a local environment set up to follow the coding exercises. You can simply click the Open in Colab badge at the top of the ungraded labs while for the assignments, you will be taken automatically to Coursera Labs. 
 
 However, if you want to run them on your local machine, the ungraded labs and assignments for each week can be found in this Github repository 
