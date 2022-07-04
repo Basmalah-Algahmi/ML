@@ -1,0 +1,64 @@
+Goal:
+
+> Finish the course within one month.
+> Understand the concept of ML
+> TBC
+
+
+
+
+
+Resources:
+
+> https://www.coursera.org/learn/introduction-tensorflow/home/info
+
+	* Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+		by DeepLearning.AI
+
+	* About this Course
+		If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This course is part of the upcoming Machine Learning in Tensorflow Specialization and will teach you best practices for using TensorFlow, a popular open-source framework for machine learning. 
+
+	* The Machine Learning course and Deep Learning Specialization from Andrew Ng teach the most important and foundational principles of Machine Learning and Deep Learning. This new deeplearning.ai TensorFlow Specialization teaches you how to use TensorFlow to implement those principles so that you can start building and applying scalable models to real-world problems. To develop a deeper understanding of how neural networks work, we recommend that you take the Deep Learning Specialization.
+
+	
+	* Basic Info	
+		* Course 1 of 4 in the DeepLearning.AI TensorFlow Developer Specialization
+	* Level	
+		* Intermediate
+	* Commitment	
+		* 4 weeks, 4-5 hours/week
+
+	* Syllabus
+		* WEEK 1:
+			> A New Programming Paradigm
+			> Welcome to this course on going from Basics to Mastery of TensorFlow. We're excited you're here! In Week 1, you'll get a soft introduction to what Machine Learning and Deep Learning are, and how they offer you a new programming paradigm, giving you a new set of tools to open previously unexplored scenarios. All you need to know is some very basic programming skills, and you'll pick the rest up as you go along. To get started, check out the first video, a conversation between Andrew and Laurence that sets the theme for what you'll study...
+			> 4 videos, 7 readings:
+				* Video: Introduction: A conversation with Andrew Ng
+				* Reading: Where to find the notebooks for this course
+				* Video: A primer in machine learning
+				* Video: The ‘Hello World’ of neural networks
+				* LTI Item: [IMPORTANT] Have questions, issues or ideas? Join our community on Discourse!
+				* Reading: From rules to data
+				* Video: Working through ‘Hello World’ in TensorFlow and Python
+				* Ungraded Plugin: Get started with Google Colaboratory (Coding TensorFlow)
+				* Reading: FAQs about Google Colab (optional)
+				* Reading: Try it for yourself (Lab 1)
+				* LTI Item: Lecture Notes W1
+				* Reading: Assignment Troubleshooting Tips
+				* Reading: (Optional) Downloading your Notebook and Refreshing your Workspace
+				
+			
+
+Plan:
+
+	> July:
+		* week 1 (7/1 to 7/8)
+		* week 2 (7/9 to 7/15)
+		* week 3 (7/16 to 7/22)
+		* week 4 (7/23 to 7/28)
+
+
+progress:
+
+	> week 1
+
